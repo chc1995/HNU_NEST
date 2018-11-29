@@ -1,0 +1,150 @@
+@CHARSET "UTF-8";
+
+.intro_home{
+	width:100%;
+	height:1900px;
+	background-color:#EDEDEC;
+}
+
+.intro_home_1{
+	width:1200px;
+	height:1900px;
+	margin:0 auto;
+	background-color:#F2F2F1;
+
+}
+
+.intro_home_1 .name_daxie{
+	font-size:25px;
+	padding-top:30px;
+	text-align:center;
+    font-weight:bold;
+}
+
+.intro_home_1 .miaoshu_normal{
+	width:1000px;
+	height:150px;
+	padding-top:10px;
+	margin:0 auto;
+	font-size:18px;
+    font-weight:bold;
+   <!-- background-color:grey;-->
+}
+
+.intro_home_1 .cess_pic_home{
+	width:1000px;
+	height:365px;
+	margin:0 auto;
+	text-align:center;
+}
+.intro_home_1 .miaoshu_normal_1{
+	width:1000px;
+	height:85px;
+	padding-top:10px;
+	margin:0 auto;
+	font-size:18px;
+    font-weight:bold;
+}
+.intro_home_1 .miaoshu_normal_2{
+	width:1000px;
+	height:85px;
+	padding-top:10px;
+	margin:0 auto;
+	font-size:18px;
+    font-weight:bold;
+}
+
+
+.intro_home_1 .nest_daxie{
+	margin-top:20px;
+	text-align:center;
+	font-size:22px;
+    font-weight:bold;
+    padding-top:10px;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.intro_home_1 .miaoshu_nest_home{
+	width:1000px;
+	height:200px;
+	padding-top:10px;
+	margin:0 auto;
+	font-size:18px;
+    font-weight:bold;
+
+}
+
+.intro_nest_home .miaoshu_nest_title_home{
+	width:1000px;
+	height:18px;
+	margin:5px auto;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.intro_nest_home .miaoshu_nest_content_home_1{
+	width:1000px;
+    height:18px;
+    margin:10px auto;
+    font-size:17px;
+}
+
+.intro_nest_home .miaoshu_nest_content_home_2{
+	width:1000px;
+    height:36px;
+    margin:10px auto;
+    font-size:17px;
+}
+
+
+.intro_nest_home .miaoshu_nest_content_home_3{
+	width:1000px;
+    height:18px;
+    margin:10px auto;
+    font-size:17px;
+}
+
+.intro_nest_home .miaoshu_nest_content_home_4{
+	width:1000px;
+    height:72px;
+    margin:10px auto;
+    font-size:17px;
+}
+
+.intro_nest_home .miaoshu_nest_content_home_5{
+	width:1000px;
+    height:72px;
+    margin:10px auto;
+    font-size:17px;
+    padding-bottom:20px;
+}
+
+
+
+
+.intro_home_1 .temp_location_home{
+	width:1000px;
+	height:610px;
+	padding-top:10px;
+	margin:0 auto;
+	font-size:18px;
+    font-weight:bold;
+}
+
+/*.intro_home_1 .temp_location_home .CS_Temp{
+	border:3px solid red;
+	
+}*/
+
+.intro_home_1 .temp_location_home .temp_info{
+	width:500px;
+	height:90px;
+}
+
+.fixed_to_index {
+	width: 90px;
+	height: 110px;
+	position: fixed;
+	left: 0px;
+	top: 70%;
+}

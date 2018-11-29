@@ -1,0 +1,358 @@
+@CHARSET "UTF-8";
+
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration: none;
+    list-style-style:none;
+}
+html,body{
+    width:100%;
+    height: 2000px;
+}
+.wrapper{
+    width:100% ;
+    height:185px;
+}
+
+.wrapper .hnu_csee_lab_name{
+  width:100%；
+  height：120px;
+  background-color:#5A7FA1;
+}
+.wrapper .hnu_csee_lab_name .hnu_csee_lab_name_1{
+	width:1200px;
+	height:120px;
+	margin: 0 auto;
+}
+
+.wrapper .hnu_csee_lab_name .hnu_csee_lab_name_1 .three-names{
+	padding-top:15px;
+	text-align:center;
+	margin:0 47px;
+	width:300px;
+	height:90px;
+	float:left;
+    font-family: 'Kanit', sans-serif;
+}
+.wrapper .hnu_csee_lab_name .hnu_csee_lab_name_1 .lab-names-design{
+	padding-top:22px;
+	font-size:50px;
+	color:white;
+	font-family: 'Ceviche One', cursive;
+}
+
+.wrapper .hnu_csee_lab_name .hnu_csee_lab_name_1 .lab-names-design a{
+	color:white;
+}
+
+.wrapper .hnu_csee_lab_name .hnu_csee_lab_name_1 .lab-names-design a:hover{
+	color:red;
+	}
+	
+.wrapper .lab_nav{
+  width:100%；
+  height：120px;
+  background-color:#5A7FA1;
+} 
+.wrapper .lab_nav .lab_nav_real_len_width{
+	width:1200px;
+	height:65px;
+	margin: 0 auto;
+}
+
+.lab_nav .lab_nav_real_len_width li a{
+	color:white;
+}
+
+.lab_nav .lab_nav_real_len_width li{
+	width:200px;
+	height:40px;
+    display:block;
+    color:white;
+    float:right;
+    text-align:center;
+    padding-top:23px;
+    border-radius:10px;
+    
+}
+
+.lab_nav .lab_nav_real_len_width li a {
+	font-size:22px;
+	font-weight:bold;
+	color:white;
+	font-family: 'Droid Sans', sans-serif;
+
+}
+
+
+.lab_nav .lab_nav_real_len_width .home{
+	background-color:rgba(255,255,255,0.3);
+}
+
+.lab_nav .lab_nav_real_len_width li:hover {
+	background-color:rgba(255,255,255,0.3);
+}
+
+.wrapper .lab_pictures_oreders{
+  width:100%；
+  height：600px;
+}
+
+.wrapper .lan_pictures_oreders .save_show_pictures{
+	width:1500px;
+    height：600px;
+    margin:0 auto;
+    border:3px solid red;
+}
+
+.wrapper .lan_pictures_oreders .save_show_pictures .ig{
+	border:3px solid red;
+    margin:0;
+    display:block;
+}
+
+.order_pics{
+	margin-top:8px;
+	margin-bottom:8px;
+	width:100% ;
+    height:650px;
+    background-color:#F6F7FA;
+}
+
+.order_pics .pics_par_position{
+	width:1500px;
+	height:100%;
+	margin: 0 auto;
+	position:relative;
+}
+
+
+.order_pics .pics_par_position .ig{
+	position:absolute;
+}
+
+.order_pics .pics_par_position .btn{
+	position:absolute;
+    height:650px;
+    width:80px;
+    background:rgba(0,0,0,0.1);
+    color:white;
+    font-size:70px;
+    text-align:center;
+    line-height:650px;
+    cursor:pointer;
+}
+
+.order_pics .pics_par_position .btn2{
+	left:1420px;
+	}
+	
+.order_pics .pics_par_position #tabs{
+	position:absolute;
+	top:580px;
+	left:580px;
+}
+
+.order_pics .pics_par_position .tab{
+	width:50px;
+	height:50px;
+	background-color:rgba(135,206,250,0.5);
+	float:left;
+	text-align:center;
+	line-height:50px;
+	color:#fff;
+	margin-right:10px;
+	border-radius:100%;
+	cursor:pointer;
+	font-size:12px;
+}
+
+.order_pics .pics_par_position .bg{
+	background-color:rgba(127,255,212,0.1);
+}
+
+.welcome-words{
+	width:100% ;
+    height:150px;
+    background-color:#F6F7FA;
+}
+
+.welcome-words .welcome_Nest .welcome-bold{
+	 font-weight:bold;
+	 font-size:23px;
+}
+
+.welcome-words .what_Nest{
+	width:1000px;
+	height:40px;
+	font-family: 'Cantarell', sans-serif;
+	margin:0px auto;
+	text-align:center;
+	padding-top:10px;
+	font-size:30px;
+	border:1px 
+	
+	}
+.welcome-words .welcome_Nest{
+	width:1300px;
+	height:80px;
+	margin:10px auto;
+	text-align:left;
+	font-size:17px;
+	font-family: 'Cantarell', sans-serif;
+}
+
+.fixed_wechat {
+	width: 90px;
+	height: 110px;
+	position: fixed;
+	right: 0px;
+	top: 70%;
+}
+.fixed_wechat .wechat_intro_1 span{
+	font-size:7px;
+	font-weight:bold;
+}
+
+
+.news-title-line{
+	width:100% ;
+    height:45px;
+    margin:30px auto;
+}
+
+.news-title-line .news-title-line-1{
+	width:1300px;
+	margin:0 auto;
+	height:45px;
+}
+
+.news-title-line-1 .news-title .nest{
+	font-size:30px;
+	font-weight:bold;
+	color:#0A5494;
+}
+
+.news-title-line-1 .news-title .news{
+	font-size:18px;
+	font-weight:bold;
+	color:#0A5494;
+}
+
+
+.nest-news-intro-1 {
+	height:600px;
+	weight:100%;
+	margin:0 auto;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1{
+	height:600px;
+	width:1300px;
+	margin:0 auto;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .news-date{
+	height:40px;
+	padding-top:7px;
+	width:160px;
+	margin-top:10px;
+	font-size:23px;
+	background-color:#E7E9EB;
+	text-align:center;
+	border-radius:8px;
+	display:inline-block;
+	float:left;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .news-xiangxi{
+	height:580px;
+	padding-top:7px;
+	width:1000px;
+	margin-top:10px;
+	background-color:#F9FAFB;
+	display:inline-block;
+	float:right;
+	
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .news-xiangxi .news-title{
+	height:40px;
+	font-size:20px;
+	width:1000px;
+	text-align:center;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .news-xiangxi .news-pic-1{
+	height:300px;
+	width:495px;
+	float:left;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .news-xiangxi .news-pic-2{
+	height:300px;
+	float:right;
+	width:495px;
+	margin-bottom:10px;
+}
+
+.nest-news-intro-1 .nest-news-intro-1-1 .text-news{
+	font-size:18px;
+	font-family:'黑体';
+}
+
+.footer-design-1{
+	margin-top:30px;
+	width:100% ;
+    height:80px;
+    background-color:white;
+}
+
+ .footer-design-1 .footer-design-link{
+    width:1500px;
+    height:80px;
+    margin: 10px auto;
+ }
+ 
+ .footer-design-1 .footer-design-link .bottom_link{
+       width:100%;
+       height:24px;
+ }
+ .footer-design-1 .footer-design-link .bottom_link .bottom_link_left{
+    float:left;
+  }
+  
+  .footer-design-1 .footer-design-link .bottom_link .bottom_link_right{
+    float:right;
+    margin-top:7px;
+  }
+  
+.footer-design-1 .footer-design-link .link-website ul li a{
+	color:black;
+    font-size:17px;
+    font-weight:bold;
+    background-color:#F3F3F3;
+   }
+  
+ .footer-design-1 .footer-design-link .link-website ul li{
+   display:inline-block;
+   margin:15px 35px;
+ }
+ 
+ .footer-design-2{
+    margin:40px auto;
+    weight:100%;
+    height:40px;
+    background-color:#3B3A3A;
+ }
+ 
+ .footer-design-2 .copyright-1{
+    color:white;
+    padding-top:10px;
+    width:1200px;
+    height:40px;
+    margin:0 auto;
+    text-align:center;
+ }

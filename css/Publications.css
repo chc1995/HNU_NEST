@@ -1,0 +1,123 @@
+@CHARSET "UTF-8";
+
+.publications_publications{
+	width:100%;
+	height:4500px;
+	background-color:#EFF0F1;
+	padding-top:40px;
+}
+
+
+.publications_publications .year-2018{
+	width:200px;
+	height:55px;
+	margin:10px auto;
+	background-color:#5A7FA1;
+	text-align:center;
+	color:white;
+	font-size:30px;
+    padding-top:10px;
+    font-family:'黑体';
+    border-radius:10px;
+    
+}
+
+.publications_publications .year-2018-list{
+	width:1500px;
+	height:700px;
+	margin:0 auto;
+	background-color:white;
+	font-size:20px;
+	font-family:'黑体';
+}
+
+.publications_publications .year-2018-list .index-num{
+	font-size:20px;
+	font-weight:bold;
+}
+
+.publications_publications .year-2017{
+	width:200px;
+	height:55px;
+	background-color:#5A7FA1;
+	font-family:'黑体';
+	margin:10px auto;
+	text-align:center;
+	color:white;
+	font-size:30px;
+    padding-top:10px;
+    border-radius:10px;
+    
+}
+
+.publications_publications .year-2017-list{
+	width:1500px;
+	height:710px;
+	margin:0 auto;
+	background-color:white;
+	font-size:20px;
+	font-family:'黑体';
+}
+
+.publications_publications .year-2017-list .index-num{
+	font-size:20px;
+	font-weight:bold;
+}
+
+.publications_publications .year-2016{
+	width:200px;
+	height:55px;
+	background-color:#5A7FA1;
+	font-family:'黑体';
+	margin:10px auto;
+	text-align:center;
+	font-size:30px;
+    padding-top:10px;
+    border-radius:10px;
+    color:white;
+    
+}
+
+.publications_publications .year-2016-list{
+	width:1500px;
+	height:1730px;
+	margin:0 auto;
+	background-color:white;
+	font-size:20px;
+	font-family:'黑体';
+}
+
+.publications_publications .year-2016-list .index-num{
+	font-size:20px;
+	font-weight:bold;
+}
+
+
+.publications_publications .year-2015{
+	width:400px;
+	height:55px;
+	background-color:#5A7FA1;
+	font-family:'黑体';
+	margin:10px auto;
+	text-align:center;
+	font-size:30px;
+    padding-top:10px;
+    color:white;
+    border-radius:10px;
+    
+}
+
+.publications_publications .year-2015-list{
+	width:1500px;
+	height:940px;
+	margin:0 auto;
+	background-color:white;
+	font-size:20px;
+	font-family:'黑体';
+}
+
+.publications_publications .year-2015-list .index-num{
+	font-size:20px;
+	font-weight:bold;
+}
+
